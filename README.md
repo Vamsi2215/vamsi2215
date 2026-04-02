@@ -24,5 +24,5 @@
 
 ### 📬 Connect with me:
 - **Email:** vamsigajja07@gmail.com
-- **LinkedIn:** [Your LinkedIn Link]
-- **Portfolio:** [Your Portfolio Link]
+- **LinkedIn:** www.linkedin.com/in/vamsigajja
+- **Portfolio:** https://github.com/Vamsi2215
