@@ -1,143 +1,110 @@
-# 👋 Hi there, I'm Vamsi Gajja
-
-> ### *Software Engineer building scalable AI-powered platforms and distributed, data-intensive systems*
-
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%20Infrastructure-FF6F00?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-</div>
 
-## 🧠 About Me
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Vamsi%20Gajja&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Infrastructure%20%7C%20Distributed%20Systems&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-I'm a Software Engineer at **ServiceNow** with experience building scalable, AI-powered backend platforms, production RAG pipelines, and distributed data-intensive systems. Currently completing my **MS in Computer Software Engineering** at **Northeastern University**.
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+scalable+AI-powered+backend+platforms;Designing+production+RAG+pipelines+%26+semantic+search;Architecting+event-driven+microservices+on+AWS)](https://git.io/typing-svg)
 
-## 💻 Technical Expertise
-
-<details open>
-<summary><b>🤖 AI/ML & LLM Engineering</b></summary>
-<br>
-<img src="https://img.shields.io/badge/RAG_Pipelines-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-3178C6?style=flat-square&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1F77B4?style=flat-square&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector_DBs-4ECDC4?style=flat-square&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white"/>
-</details>
-
-<details>
-<summary><b>🔧 Backend & APIs</b></summary>
-<br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</details>
-
-<details>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-</details>
-
-<details>
-<summary><b>📊 Data Engineering</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
-</details>
-
-<details>
-<summary><b>💾 Databases</b></summary>
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</details>
-
-## 🚀 Featured Projects
-
-### [Project Name – RAG Pipeline System](https://github.com/Vamsi2215)
-**LangChain | FastAPI | Pinecone | AWS**
-
-Production RAG pipeline for enterprise-scale unstructured data:
-- 🔍 Implemented semantic search with vector databases for high-precision retrieval
-- ⚡ Optimized end-to-end retrieval latency in LLM-based systems
-- 🧠 Built hybrid retrieval combining dense embeddings and keyword search
-- 🚀 Deployed containerized microservices on AWS with Kubernetes orchestration
-
-### [Project Name – Real-Time Data Ingestion Platform](https://github.com/Vamsi2215)
-**PySpark | Apache Airflow | AWS Lambda | Kafka**
-
-High-throughput data pipeline for real-time analytics:
-- 📊 Architected ETL workflows processing large-scale streaming data
-- 🔄 Built event-driven microservices with Apache Kafka for real-time ingestion
-- ☁️ Deployed serverless compute with AWS Lambda for cost-efficient scaling
-- ⏱️ Orchestrated complex DAGs with Apache Airflow for reliability
-
-### [Healthcare Management Platform](https://github.com/Vamsi2215)
-**FastAPI | React | PostgreSQL | Docker**
-
-Microservices-based healthcare management system:
-- 🏥 Designed high-performance APIs with FastAPI and gRPC
-- 🔧 Refactored monolith into event-driven microservices architecture
-- 📦 Containerized services with Docker & Kubernetes for resilient deployment
-- 🛡️ Implemented secure data handling with PostgreSQL and Redis caching
-
-## 🎓 Education
-
-**Northeastern University** – *Boston, MA*
-Master of Science in Computer Software Engineering
-
-**JNTUH** – *Hyderabad, India*
-Bachelor of Technology in Computer Science
-
-## 📈 What I'm Working On
-
-- ⚡ Optimizing end-to-end retrieval latency in LLM-based systems
-- 📊 Developing high-throughput data ingestion pipelines for real-time analytics
-- 🏥 Refitting a healthcare management project into a microservices-based architecture
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vamsi2215&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=Vamsi2215&theme=radical&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi2215&layout=compact&theme=radical" height="200"/>
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/vamsigajja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vamsigajja07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Vamsi2215"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vamsi2215&color=blue&style=for-the-badge" />
 </div>
 
 ---
 
+### `> whoami`
+
+Software Engineer at **ServiceNow** building high-performance backend platforms, production RAG pipelines, and distributed data systems. Finishing my **MS in Computer Software Engineering** at **Northeastern University** (May 2025). Previously shipped production systems at **Infinite Infolab**.
+
+I care about systems that actually work at scale — not demos.
+
+---
+
+### `> tech --stack`
+
+```text
+AI / LLM          │  LangChain · LangGraph · RAG · OpenAI · Claude · Pinecone · Milvus
+Backend           │  Python · FastAPI · Django · Node.js · gRPC · GraphQL · TypeScript · React
+Cloud & Infra     │  AWS (EC2, Lambda, S3) · Docker · Kubernetes · Terraform · ArgoCD
+Data              │  PostgreSQL · Redis · Elasticsearch · MongoDB · Apache Airflow · PySpark · Kafka
+DevOps            │  GitHub Actions · Jenkins · CI/CD · Monitoring · IaC
+```
+
+---
+
+### `> projects --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔍 RAG Pipeline System
+**`LangChain` `FastAPI` `Pinecone` `AWS`**
+
+Production retrieval-augmented generation for enterprise unstructured data. Hybrid search combining dense embeddings + keyword retrieval, containerized on Kubernetes.
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 Real-Time Data Ingestion
+**`PySpark` `Airflow` `Kafka` `Lambda`**
+
+High-throughput streaming pipeline with event-driven microservices. Serverless compute for cost-efficient scaling, orchestrated with Airflow DAGs.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏥 Healthcare Management Platform
+**`FastAPI` `React` `PostgreSQL` `Docker`**
+
+Microservices-based system refactored from monolith. Secure APIs with gRPC, Redis caching layer, and container orchestration via K8s.
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ LLM Retrieval Optimization
+**`LangGraph` `Vector DBs` `Python` `AWS`**
+
+Ongoing work reducing end-to-end retrieval latency in LLM-based systems. Benchmarking chunking strategies and re-ranking approaches.
+
+</td>
+</tr>
+</table>
+
+> 💡 *Replace these with your actual repo links once public — placeholder descriptions for now.*
+
+---
+
+### `> stats`
+
 <div align="center">
-  <i>⚡ Building scalable AI-powered platforms and distributed systems, one commit at a time ⚡</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vamsi2215&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Vamsi2215&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamsi2215&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%"/>
+</div>
+
+---
+
+### `> education`
+
+| 🎓 | Degree | University | Location |
+|---|--------|-----------|----------|
+| **MS** | Computer Software Engineering | Northeastern University | Boston, MA |
+| **B.Tech** | Computer Science | JNTUH | Hyderabad, India |
+
+---
+
+### `> connect`
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsigajja)
+  [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsigajja07@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vamsi2215)
+
+  <img src="https://komarev.com/ghpvc/?username=Vamsi2215&color=1f6feb&style=flat-square&label=Profile+Views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
