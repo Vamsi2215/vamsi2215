@@ -69,19 +69,30 @@ Ongoing work reducing end-to-end retrieval latency in LLM-based systems. Benchma
 </tr>
 </table>
 
-> 💡 *Replace these with your actual repo links once public — placeholder descriptions for now.*
+---
+
+### `> status --current`
+
+```javascript
+const vamsi = {
+    role       : "Software Engineer @ ServiceNow",
+    building   : ["Production RAG pipelines", "Event-driven microservices"],
+    learning   : ["LLM retrieval optimization", "Multi-agent orchestration"],
+    challenge  : "Reducing e2e retrieval latency below perceptible thresholds",
+    coffee     : true,
+};
+```
 
 ---
 
-### `> stats`
+### `> contributions`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vamsi2215&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=Vamsi2215&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamsi2215&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vamsi2215/Vamsi2215/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vamsi2215/Vamsi2215/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Vamsi2215/Vamsi2215/output/github-snake.svg" width="95%"/>
+  </picture>
 </div>
 
 ---
